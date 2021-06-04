@@ -6,7 +6,7 @@
 //     exit();
 // }
 
-$conn = new mysqli("remotemysql.com", "dYOBa5KYD8", "G4nJxXSlDJ", "dYOBa5KYD8");
+$conn = new mysqli("remotemysql.com:3306", "dYOBa5KYD8", "G4nJxXSlDJ", "dYOBa5KYD8");
 
 if ($conn->connect_errno) {
     echo "Failed to connect to MySQL: " . $conn->connect_error;
