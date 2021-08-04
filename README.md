@@ -10,7 +10,7 @@ Basic features of an ecommerce website:
 - Create order with email announcement.
 
 ## Demo
-- You can visit the website at link: https://onlineshopphp.herokuapp.com/index.php
+- Demo link: https://onlineshopphp.herokuapp.com/index.php
 
 ## Installation on localhost
 - Install xampp.
