@@ -1,5 +1,5 @@
-- A mobile phone ecommerce website built with PHP & MySQL using available ecommerce template.
-- The website template can be found at: https://themewagon.com/themes/free-bootstrap-ecommerce-template/
+- A mobile phone ecommerce website built with PHP & MySQL.
+- Link template: https://themewagon.com/themes/free-bootstrap-ecommerce-template/
 
 ## Features
 Basic features of an ecommerce website:
